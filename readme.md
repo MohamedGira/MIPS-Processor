@@ -13,7 +13,7 @@
 
 ### Requirements:
 
-Design a simple MIPS CPU Using VHDL. The proposed CPU should be able to
+Designed and Implemented a simple MIPS CPU Using VHDL. The proposed CPU should be able to
 perform certain instructions: R-type (AND, OR, ADD, SUB, SLT and NOR),
 I-type (lw, sw, beq, bne) and J instruction.
 
@@ -25,4 +25,4 @@ I-type (lw, sw, beq, bne) and J instruction.
     and store them in array at the beginning of the Data Memory.
 
 -   After the program finishes, you should see the following sequence in
-    \$s0: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 0, 1.
+    \$s0: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 0, 1. (the values are loaded into $s0 from the memory after they are stored in the memory (after 1080ns))
