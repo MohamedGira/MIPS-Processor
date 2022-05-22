@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="MipsProcessor" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/DataMemoryTb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|DataMemoryTb.vhd</ClosedNode>
+         <ClosedNode>/Mux_2x1_32bit_Tb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|Mux_2x1_32bit_Tb.vhd</ClosedNode>
+         <ClosedNode>/PCTb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|PCTb.vhd</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|RegisterFileTest.vhd</ClosedNode>
+         <ClosedNode>/alutestb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|alutestb.vhd</ClosedNode>
+         <ClosedNode>/extendtb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|extendtb.vhd</ClosedNode>
+         <ClosedNode>/tb9 - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|tb9.vhd</ClosedNode>
+         <ClosedNode>/testbench - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|CPUTb1.vhd</ClosedNode>
+         <ClosedNode>/testbench - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|Cputb3.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>tb9 - behavior (C:/Users/GiraV/Desktop/projects/MipsProcessor/tb9.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000262000000020000000000000000000000000200000064ffffffff000000810000000300000002000002620000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>tb9 - behavior (C:/Users/GiraV/Desktop/projects/MipsProcessor/tb9.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" ></ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000392000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000002c60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000138000000010000000100000000000000000000000064ffffffff000000810000000000000001000001380000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/DataMemoryTb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|DataMemoryTb.vhd</ClosedNode>
+         <ClosedNode>/Mux_2x1_32bit_Tb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|Mux_2x1_32bit_Tb.vhd</ClosedNode>
+         <ClosedNode>/PCTb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|PCTb.vhd</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|RegisterFileTest.vhd</ClosedNode>
+         <ClosedNode>/alutestb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|alutestb.vhd</ClosedNode>
+         <ClosedNode>/extendtb - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|extendtb.vhd</ClosedNode>
+         <ClosedNode>/tb9 - behavior C:|Users|GiraV|Desktop|projects|MipsProcessor|tb9.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>tb9 - behavior (C:/Users/GiraV/Desktop/projects/MipsProcessor/tb9.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000262000000020000000000000000000000000200000064ffffffff000000810000000300000002000002620000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>tb9 - behavior (C:/Users/GiraV/Desktop/projects/MipsProcessor/tb9.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000138000000010000000100000000000000000000000064ffffffff000000810000000000000001000001380000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000138000000010000000100000000000000000000000064ffffffff000000810000000000000001000001380000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+</Project>
